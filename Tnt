@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>TNT Control de Plagas - Fumigación y Control de Plagas</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<header>
+		<h1>TNT Control de Plagas</h1>
+		<nav>
+			<ul>
+				<li><a href="#servicios">Servicios</a></li>
+				<li><a href="#testimonios">Testimonios</a></li>
+				<li><a href="#contacto">Contacto</a></li>
+			</ul>
+		</nav>
+	</header>
+
+	<main>
+		<section id="hero">
+			<h2>Fumigación y Control de Plagas</h2>
+			<p>Soluciones efectivas y seguras para el control de todo tipo de plagas en hogares y negocios.</p>
+			<a href="#contacto" class="button">Contacto</a>
+		</section>
+
+		<section id="servicios">
+			<h2>Servicios</h2>
+			<p>Ofrecemos servicios de fumigación y control de plagas para hogares y negocios.</p>
+
+			<h3>Fumigación de Insectos</h3>
+			<p>Nuestro servicio de fumigación de insectos incluye la eliminación de hormigas, cucarachas, arañas, moscas, mosquitos y otros insectos molestos.</p>
+
+			<h3>Fumigación de Roedores</h3>
+			<p>Nuestro servicio de fumigación de roedores incluye la eliminación de ratas y ratones.</p>
+
+			<h3>Control de Plagas en Jardines</h3>
+			<p>Nuestro servicio de control de plagas en jardines incluye la eliminación de hormigas, moscas, mosquitos y otros insectos que pueden dañar su jardín.</p>
+			
+			<a href="#contacto" class="button">Contacto</a>
+		</section>
+
+		<section id="testimonios">
+			<h2>Testimonios</h2>
+			<ul>
+				<li>
+					<blockquote>"Contraté a TNT Control de Plagas para fumigar mi casa y estoy muy satisfecho con los resultados. El servicio fue rápido y efectivo, y el precio fue muy razonable."</blockquote>
+					<cite>- Juan Pérez, cliente satisfecho</cite>
+				</li>
+				<li>
+					<blockquote>"Excelente servicio al cliente. El personal de TNT Control de Plagas fue amable y profesional, y me ayudó a resolver mi problema de plagas de manera efectiva."</blockquote>
+					<cite>- María González, cliente satisfecha</cite>
+				</li>
+			</ul>
+		</section>
+
+		<section id="contacto">
+			<h2>Contacto</h2>
+			<p>Ponte en contacto con nosotros para obtener más información sobre nuestros servicios de fumigación y control de plagas.</p>
+
+			<form action="enviar.php" method="post">
+				<label for="nombre">Nombre
